@@ -1,0 +1,4 @@
+*.log
+debug.*
+db/*
+test.db
